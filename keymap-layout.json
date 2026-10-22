@@ -1,0 +1,576 @@
+[
+  {
+    "visual": 0,
+    "position": 0,
+    "name": "Esc",
+    "default": "00000029",
+    "fn_default": "07000004"
+  },
+  {
+    "visual": 2,
+    "position": 12,
+    "name": "F1",
+    "default": "0000003a",
+    "fn_default": "02000070"
+  },
+  {
+    "visual": 3,
+    "position": 18,
+    "name": "F2",
+    "default": "0000003b",
+    "fn_default": "0200006f"
+  },
+  {
+    "visual": 4,
+    "position": 24,
+    "name": "F3",
+    "default": "0000003c",
+    "fn_default": "0004002b"
+  },
+  {
+    "visual": 5,
+    "position": 30,
+    "name": "F4",
+    "default": "0000003d",
+    "fn_default": "00040029"
+  },
+  {
+    "visual": 6,
+    "position": 36,
+    "name": "F5",
+    "default": "0000003e",
+    "fn_default": "08030200"
+  },
+  {
+    "visual": 7,
+    "position": 42,
+    "name": "F6",
+    "default": "0000003f",
+    "fn_default": "08030100"
+  },
+  {
+    "visual": 8,
+    "position": 48,
+    "name": "F7",
+    "default": "00000040",
+    "fn_default": "020000b6"
+  },
+  {
+    "visual": 9,
+    "position": 54,
+    "name": "F8",
+    "default": "00000041",
+    "fn_default": "020000cd"
+  },
+  {
+    "visual": 10,
+    "position": 60,
+    "name": "F9",
+    "default": "00000042",
+    "fn_default": "020000b5"
+  },
+  {
+    "visual": 11,
+    "position": 66,
+    "name": "F10",
+    "default": "00000043",
+    "fn_default": "020000e2"
+  },
+  {
+    "visual": 12,
+    "position": 72,
+    "name": "F11",
+    "default": "00000044",
+    "fn_default": "020000ea"
+  },
+  {
+    "visual": 13,
+    "position": 78,
+    "name": "F12",
+    "default": "00000045",
+    "fn_default": "020000e9"
+  },
+  {
+    "visual": 14,
+    "position": 84,
+    "name": "Knob press",
+    "default": "0700001d",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 15,
+    "position": 1,
+    "name": "`",
+    "default": "00000035",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 16,
+    "position": 7,
+    "name": "1",
+    "default": "0000001e",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 17,
+    "position": 13,
+    "name": "2",
+    "default": "0000001f",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 18,
+    "position": 19,
+    "name": "3",
+    "default": "00000020",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 19,
+    "position": 25,
+    "name": "4",
+    "default": "00000021",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 20,
+    "position": 31,
+    "name": "5",
+    "default": "00000022",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 21,
+    "position": 37,
+    "name": "6",
+    "default": "00000023",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 22,
+    "position": 43,
+    "name": "7",
+    "default": "00000024",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 23,
+    "position": 49,
+    "name": "8",
+    "default": "00000025",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 24,
+    "position": 55,
+    "name": "9",
+    "default": "00000026",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 25,
+    "position": 61,
+    "name": "0",
+    "default": "00000027",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 26,
+    "position": 67,
+    "name": "-",
+    "default": "0000002d",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 27,
+    "position": 73,
+    "name": "=",
+    "default": "0000002e",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 28,
+    "position": 79,
+    "name": "Backspace",
+    "default": "0000002a",
+    "fn_default": "0700001c"
+  },
+  {
+    "visual": 29,
+    "position": 85,
+    "name": "Delete",
+    "default": "0000004c",
+    "fn_default": "00000049"
+  },
+  {
+    "visual": 30,
+    "position": 2,
+    "name": "Tab",
+    "default": "0000002b",
+    "fn_default": "08020000"
+  },
+  {
+    "visual": 31,
+    "position": 8,
+    "name": "Q",
+    "default": "00000014",
+    "fn_default": "07000019"
+  },
+  {
+    "visual": 32,
+    "position": 14,
+    "name": "W",
+    "default": "0000001a",
+    "fn_default": "07000018"
+  },
+  {
+    "visual": 33,
+    "position": 20,
+    "name": "E",
+    "default": "00000008",
+    "fn_default": "0700001a"
+  },
+  {
+    "visual": 34,
+    "position": 26,
+    "name": "R",
+    "default": "00000015",
+    "fn_default": "0700001b"
+  },
+  {
+    "visual": 35,
+    "position": 32,
+    "name": "T",
+    "default": "00000017",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 36,
+    "position": 38,
+    "name": "Y",
+    "default": "0000001c",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 37,
+    "position": 44,
+    "name": "U",
+    "default": "00000018",
+    "fn_default": "00000046"
+  },
+  {
+    "visual": 38,
+    "position": 50,
+    "name": "I",
+    "default": "0000000c",
+    "fn_default": "00000047"
+  },
+  {
+    "visual": 39,
+    "position": 56,
+    "name": "O",
+    "default": "00000012",
+    "fn_default": "00000048"
+  },
+  {
+    "visual": 40,
+    "position": 62,
+    "name": "P",
+    "default": "00000013",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 41,
+    "position": 68,
+    "name": "[",
+    "default": "0000002f",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 42,
+    "position": 74,
+    "name": "]",
+    "default": "00000030",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 43,
+    "position": 80,
+    "name": "\\",
+    "default": "00000031",
+    "fn_default": "08000000"
+  },
+  {
+    "visual": 44,
+    "position": 86,
+    "name": "End",
+    "default": "0000004d",
+    "fn_default": "0000004a"
+  },
+  {
+    "visual": 45,
+    "position": 3,
+    "name": "CapsLock",
+    "default": "00000039",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 46,
+    "position": 9,
+    "name": "A",
+    "default": "00000004",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 47,
+    "position": 15,
+    "name": "S",
+    "default": "00000016",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 48,
+    "position": 21,
+    "name": "D",
+    "default": "00000007",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 49,
+    "position": 27,
+    "name": "F",
+    "default": "00000009",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 50,
+    "position": 33,
+    "name": "G",
+    "default": "0000000a",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 51,
+    "position": 39,
+    "name": "H",
+    "default": "0000000b",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 52,
+    "position": 45,
+    "name": "J",
+    "default": "0000000d",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 53,
+    "position": 51,
+    "name": "K",
+    "default": "0000000e",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 54,
+    "position": 57,
+    "name": "L",
+    "default": "0000000f",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 55,
+    "position": 63,
+    "name": ";",
+    "default": "00000033",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 56,
+    "position": 69,
+    "name": "'",
+    "default": "00000034",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 58,
+    "position": 81,
+    "name": "Enter",
+    "default": "00000028",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 59,
+    "position": 87,
+    "name": "PgUp",
+    "default": "0000004b",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 60,
+    "position": 4,
+    "name": "Left Shift",
+    "default": "00020000",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 61,
+    "position": 10,
+    "name": "Z",
+    "default": "0000001d",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 62,
+    "position": 16,
+    "name": "X",
+    "default": "0000001b",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 63,
+    "position": 22,
+    "name": "C",
+    "default": "00000006",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 64,
+    "position": 28,
+    "name": "V",
+    "default": "00000019",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 65,
+    "position": 34,
+    "name": "B",
+    "default": "00000005",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 66,
+    "position": 40,
+    "name": "N",
+    "default": "00000011",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 67,
+    "position": 46,
+    "name": "M",
+    "default": "00000010",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 68,
+    "position": 52,
+    "name": ",",
+    "default": "00000036",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 69,
+    "position": 58,
+    "name": ".",
+    "default": "00000037",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 70,
+    "position": 64,
+    "name": "/",
+    "default": "00000038",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 71,
+    "position": 70,
+    "name": "Right Shift",
+    "default": "00200000",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 73,
+    "position": 82,
+    "name": "Up",
+    "default": "00000052",
+    "fn_default": "08030100"
+  },
+  {
+    "visual": 74,
+    "position": 88,
+    "name": "PgDn",
+    "default": "0000004e",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 75,
+    "position": 5,
+    "name": "Left Ctrl",
+    "default": "00010000",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 76,
+    "position": 11,
+    "name": "Super",
+    "default": "00080000",
+    "fn_default": "07000001"
+  },
+  {
+    "visual": 77,
+    "position": 17,
+    "name": "Left Alt",
+    "default": "00040000",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 80,
+    "position": 35,
+    "name": "Space",
+    "default": "0000002c",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 83,
+    "position": 53,
+    "name": "Right Alt",
+    "default": "00400000",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 84,
+    "position": 59,
+    "name": "FN",
+    "default": "0d000000",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 85,
+    "position": 65,
+    "name": "Right Ctrl",
+    "default": "00100000",
+    "fn_default": "00000000"
+  },
+  {
+    "visual": 87,
+    "position": 77,
+    "name": "Left",
+    "default": "00000050",
+    "fn_default": "08040200"
+  },
+  {
+    "visual": 88,
+    "position": 83,
+    "name": "Down",
+    "default": "00000051",
+    "fn_default": "08030200"
+  },
+  {
+    "visual": 89,
+    "position": 89,
+    "name": "Right",
+    "default": "0000004f",
+    "fn_default": "08040100"
+  }
+]

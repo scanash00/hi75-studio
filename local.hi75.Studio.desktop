@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=HI75 Studio
+Comment=Lighting, key assignments and onboard macros for your HI75 keyboard
+Exec=/usr/bin/python3 /usr/local/share/hi75-studio/hi75_gtk.py
+Icon=local.hi75.Studio
+Terminal=false
+Categories=Settings;HardwareSettings;
+StartupWMClass=local.hi75.Studio
